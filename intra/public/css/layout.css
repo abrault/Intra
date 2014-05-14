@@ -1,0 +1,44 @@
+@import url("leftMenu.css");
+
+div.general
+{
+	border-radius: 0 3px 3px 0;
+	display: inline-block;
+	width: 93%;
+	float: left;
+	border-left: none;
+}
+
+div.general div.tree
+{
+	width: 100%;
+	background: #4E6E99;
+	height: 47px;
+	padding: 15px 0 15px 15px;
+	border-radius: 0 3px 0 0;
+	color: #fff;
+}
+
+ol.breadcrumb
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ol.breadcrumb > li
+{
+	display: inline-block;
+}
+
+.breadcrumb > .active
+{
+	color: rgba(255,255,255,0.7);
+}
+
+.breadcrumb>li+li:before
+	{
+	content: "/\00a0";
+	padding: 0 5px;
+	color: rgba(255,255,255,0.7);
+}

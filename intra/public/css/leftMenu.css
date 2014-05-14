@@ -1,0 +1,79 @@
+div.leftMenu
+{
+	width: 7%;
+	float: left;
+}
+
+div.leftMenu ul
+{
+	display: inline-block;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+div.leftMenu ul li
+{
+	padding: 10px;
+	width: 100%;
+	display: inline-block;
+	color: #fff;
+	background: #333;
+	border-left: 1px solid #ddd;
+}
+
+div.leftMenu ul li:first-child
+{
+	padding: 10px 0;
+	border-radius: 3px 0 0 0;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+	border-top: 1px solid #ddd;
+	background: #2B4466;
+}
+
+div.leftMenu ul li:last-child
+{
+	padding-bottom: 20px;
+	border-radius: 0 0 0 3px;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.07);
+	border-bottom: 1px solid #ddd;
+}
+
+div.leftMenu ul li span.icon
+{
+	font: normal normal 20px "batch";
+	color: rgba(255,255,255,0.5);
+	text-align: center;
+	width: 100%;
+	display: inline-block;
+}
+
+span.icon.link:before
+{
+	content: '\f144';
+}
+
+span.icon.me:before
+{
+	content: '\f170';
+}
+
+span.icon.forum:before
+{
+	content: '\f009';
+}
+
+span.icon.search:before
+{
+	content: '\f097';
+}
+
+span.icon.module:before
+{
+	content: '\f0e3';
+}
+
+span.icon.calendar:before
+{
+	content: '\f05b';
+}

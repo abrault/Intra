@@ -1,0 +1,61 @@
+https://dribbble.com/shots/1305004-Bublr-Sign-in
+{
+	-> avec fond etoilé + music (http://youtu.be/5nvnQ9MaZ5I)
+
+	-> log en haut
+}
+
+(!)
+https://dribbble.com/shots/986398-Sharebox/attachments/115047
+(!!)
+https://dribbble.com/shots/1052225-Webnetix-CMS/attachments/128535
+https://dribbble.com/shots/1508672-Wikipedia-concept/attachments/227253
+https://dribbble.com/shots/1511150-Wikipedia-Redesign/attachments/227745
+https://dribbble.com/shots/1255309-Dribbble-Profile-Redesign-RP-inside/attachments/171257
+https://dribbble.com/shots/1444377-Wikipedia-Main-page/attachments/213138
+https://dribbble.com/shots/1476765-IMDb/attachments/220436
+{
+	-> theme personnalisable sur chaque compte: (twitter.com)
+}
+
+(?)
+https://dribbble.com/shots/638474-Ubersnap-Followers/attachments/54240
+{
+	-> recherche de personnes
+}
+
+raccourcis pour n'importe quelle page internet
+{
+	-> pouvoir avoir un bouton rapide d'acces pour sauvegarder des liens utiles
+		et pouvoir les partager
+}
+
+recherche d'etudiants de 42 rapide et complete
+{
+
+}
+
+chargement comme twitter
+{
+	loader par et reviens
+}
+
+trello like pour projets
+{
+	-> todo list dipo sur les projets
+}
+
+system de recherche de personne
+{
+	-> slide le panneau principal sur la gauche
+		et le panneau de recherche arrive de la droite en opacity 0 >> 1
+		avec un border 2px dashed #ddd
+}
+
+notifications (non)
+{
+	-> glisse depuis la droite en haut vers la gauche, border-radius: 0
+		background flat (red, green, blue, ...)
+		s'entassent
+
+}
